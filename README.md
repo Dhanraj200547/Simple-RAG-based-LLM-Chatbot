@@ -1,4 +1,3 @@
-```markdown
 # Gemini-Powered RAG Chatbot using LangChain
 
 This project demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline using:
